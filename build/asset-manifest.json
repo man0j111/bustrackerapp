@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bustrackerapp/static/css/main.4aec3295.css",
+    "main.js": "/bustrackerapp/static/js/main.bcab25be.js",
+    "index.html": "/bustrackerapp/index.html",
+    "main.4aec3295.css.map": "/bustrackerapp/static/css/main.4aec3295.css.map",
+    "main.bcab25be.js.map": "/bustrackerapp/static/js/main.bcab25be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aec3295.css",
+    "static/js/main.bcab25be.js"
+  ]
+}
